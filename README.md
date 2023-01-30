@@ -1,2 +1,2 @@
 # Rick-And-Morty-REACT-API
-Mini Web Site consumiendo una Api de temática Rick and Morty.
+Página web creada usando VITE que consume la Api de Rick and Morty.
